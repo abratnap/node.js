@@ -1,6 +1,6 @@
 # Example travis-ci.org node.js project
 Test Travis CI
-==============
+========================
 
 
 This is an example node.js project that uses [vows](http://vowsjs.org) and
